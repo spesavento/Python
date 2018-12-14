@@ -1,2 +1,2 @@
 # Python
-Python Course - updated as I continue material
+Python Course - updated as I continue through the material
