@@ -78,20 +78,4 @@ print(tail_factorial(5))
 #n -> 2 - 1 = 1  accumulator -> 60 * 2 = 120
 #n is 1 so it's return accumulator now 
 
-### Exercises
-#Write a program to determine if a given number is a Prime Number or not. 
-# Use recursion to implement the solution
-
-def is_prime(n):
-    count = 0
-    if(n != 1):
-        3%2 == 0 
-        return False
-    else:
-        return True
-print('is_prime(3):', is_prime(3)) # True 
-print('is_prime(7):', is_prime(7)) # True 
-print('is_prime(9):', is_prime(9)) # False 
-print('is_prime(31):', is_prime(31)) # True
-
 
